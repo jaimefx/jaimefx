@@ -23,3 +23,9 @@ I am a very passionate full-stack developer that loves technology! I love workin
     <img alt="followers" title="Follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/jaimefx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
   </a>
 </p>
+
+---
+
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right: 10px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
