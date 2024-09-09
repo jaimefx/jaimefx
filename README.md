@@ -1,4 +1,5 @@
-## Hi there 👋
+# Jaime Baylon
+**`Passionate developer`**
 
 <!--
 **jaimefx/jaimefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a very passionate full-stack developer that loves technology! I love working with different people and teams to learn of one another and grow as professionals.  I have worked in small startups to large companies and have a can-do mentality.  I aim to be a positive person that makes an impact on the teams I work with.  In this repo I keep my personal projects that I learn and maintain.  Feel free to check them out!
+
+<p align="left" 
+  <a href="https://github.com/jaimefx?tab=followers">
+    <img alt="followers" title="Follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/jaimefx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
+  </a>
+</p>
