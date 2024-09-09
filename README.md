@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I am a very passionate full-stack developer that loves technology! I love working with different people and teams to learn of one another and grow as professionals.  I have worked in small startups to large companies and have a can-do mentality.  I aim to be a positive person that makes an impact on the teams I work with.  In this repo I keep my personal projects that I learn and maintain.  Feel free to check them out!
 </p>
 
+<a href="https://www.linkedin.com/in/jaime-baylon">Let's connect on LinkedIn!</a>
 ---
 
 ### Languages and Tools 🔧
