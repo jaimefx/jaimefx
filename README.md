@@ -38,6 +38,7 @@ I am a very passionate full-stack developer that loves technology! I love workin
 <img align="left" alt="Swift" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" />
 
+</br>
 ---
 <details>
   <summary><h3>About me</h3></summary>
