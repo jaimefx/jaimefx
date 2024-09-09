@@ -20,7 +20,7 @@ I am a very passionate full-stack developer that loves technology! I love workin
 
 <p align="left" 
   <a href="https://www.linkedin.com/in/jaime-baylon">
-    <img alt="Linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/jaimefx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"></a>
+    <img alt="Linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/jaimefx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add"></a>
 </p>
 
 ---
